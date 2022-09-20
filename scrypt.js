@@ -1,5 +1,5 @@
 //Hi this is a Calculator.
-// Youe can like . ;);););)<..>
+
 
 // Constructor
 class Calculator {
